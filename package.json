@@ -1,0 +1,24 @@
+{
+  "name": "docker-basics",
+  "version": "1.0.0",
+  "description": "This is a simple Docker project to demonstrate how to use it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gus303/Docker-Basics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Gus303/Docker-Basics/issues"
+  },
+  "homepage": "https://github.com/Gus303/Docker-Basics#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
