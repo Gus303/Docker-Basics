@@ -1,6 +1,7 @@
 import express from 'express';
 
 const app = express();
+const database_ex = 'Just a test'
 
 app.get('/', (req, res) => {
     res.send('Hello World!');
